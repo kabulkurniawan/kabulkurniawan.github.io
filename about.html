@@ -13,10 +13,25 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+    <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/solid-auth-client.bundle.js"></script>
+    <script src="js/solid-query-ldflex.bundle.js"></script> 
 	<!-- main css -->
 	<link rel="stylesheet" href="css/style.css">
 </head>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', async () => {
+    const kabul = solid.data['https://kabulkurniawan.inrupt.net/profile/card#me'];
+    var biography = await kabul.vcard_note;
+    var name = await kabul.name;
+    //alert(name);
+    document.getElementById("biography").innerHTML=biography;
+    document.getElementById("name").innerHTML=name;
+  });
+
+</script>
 
 <body>
 
@@ -64,15 +79,14 @@
                 <div class="offset-lg-1 col-lg-5">
                     <div class="main_title text-left">
                         <h2>Short <br> Biography</h2>
-                        <p>
+                        <p id="biography">
                            I received B.Sc degree of Computer Science in 2012 at <a href="http://ugm.ac.id">Gadjah Mada University</a>, 
                             Yogyakarta Indonesia. During B.Sc., I worked as web developer at <a href="http://gamatechno.co.id">PT. Gamatechno </a> 
                             , a software company in Yogyakarta, Indonesia, being an IT Consultant at Sleman's Local Government, a lecture assistant at
                             Computer Science and Electronics Department as well as Vocational School at Gadjah Mada University. 
                             After receiving M.Cs of Computer Science at the same university, I had been working as a lecturer at Computer
                              Science/Informatics <a href="http://undip.ac.id">Diponegoro University</a>, Semarang Indonesia. 
-                        </p>
-                        <p>
+                       <br>
                             Currently, I am working as a PhD student at the University of Vienna (<a href="http://univie.ac.at">Uni Wien</a>), and a Project Assistant at the Vienna University
                             of Technology (<a href="http://tuwien.ac.at">TU Wien</a>). My research focus including Linked Data, Interoperability and Cybersecurity.
                         </p>
@@ -81,24 +95,24 @@
                 </div>
             </div>
             <h3>A. PERSONAL INFORMATION</h3>
-            <table border="0" width="700" cellspacing="0" cellpadding="0"><colgroup> <col width="173" /> <col width="64" /> <col width="289" /> </colgroup>
+            <table border="0" width="700" cellspacing="0" cellpadding="0"><colgroup> <col width="173" /> <col width="10" /> <col width="289" /> </colgroup>
             <tbody>
             <tr>
-            <td width="200" height="20">Full Name</td>
-            <td width="500">: Kabul Kurniawan</td>
+            <td width="200" height="20">Full Name </td><td>:</td>
+            <td width="500" id="name">Kabul Kurniawan </td>
             </tr>
             <tr>
-                <td width="200" height="20">Title</td>
-                <td width="500">: S.Kom, M.Cs.</td>
+                <td width="200" height="20">Title</td></td><td>:</td>
+                <td width="500">S.Kom, M.Cs.</td>
                 </tr>
              
             <tr>
-            <td height="20">Place/ Date of Birth</td>
-            <td>: Pekalongan, Indonesia / November 30 1987</td>
+            <td height="20">Place/ Date of Birth</td></td><td>:</td>
+            <td>Pekalongan, Indonesia / November 30 1987</td>
             </tr>
             <tr>
-            <td height="20">Nasionality</td>
-            <td>: Indonesia</td>
+            <td height="20">Nasionality</td></td><td>:</td>
+            <td>Indonesia</td>
             </tr>
             <!-- <tr>
             <td height="20">Sex</td>
@@ -109,16 +123,16 @@
             <td>: Married</td>
             </tr> -->
             <tr>
-                <td height="20">Current Address (Austria)</td>
-                <td>: Flotowgasse 22/8/3 1190 Vienna, Austria</td>
+                <td height="20">Current Address (Austria)</td></td><td>:</td>
+                <td>Flotowgasse 22/8/3 1190 Vienna, Austria</td>
                 </tr>
             <tr>
-               <td height="20">Home Address (Indonesia)</td>
-               <td>: Sleman III RT 02 RW 07 Triharjo, Sleman Yogyakarta (55514) Indonesia</td>
+               <td height="20">Home Address (Indonesia)</td></td><td>:</td>
+               <td>Sleman III RT 02 RW 07 Triharjo, Sleman Yogyakarta (55514) Indonesia</td>
             </tr>
             <tr>
-               <td height="20">Office Address (TU Vienna)</td>
-               <td>: Favoritenstrasse 11, 1040 Vienna</td>
+               <td height="20">Office Address (TU Vienna)</td></td><td>:</td>
+               <td>Favoritenstrasse 11, 1040 Vienna</td>
             </tr>
    
             <!-- <tr>
@@ -130,16 +144,16 @@
             <td>: +62-856-4263-9139</td>
             </tr> -->
             <tr>
-            <td height="20">Personal Email</td>
-            <td>: kabulkurniawan@gmail.com</td>
+            <td height="20">Personal Email</td></td><td>:</td>
+            <td>kabulkurniawan@gmail.com</td>
             </tr>
             <tr>
-               <td height="20">Office Email</td>
-               <td>: kabul.kurniawan@tuwien.ac.at</td>
+               <td height="20">Office Email</td></td><td>:</td>
+               <td>kabul.kurniawan@tuwien.ac.at</td>
                </tr>
             <tr>
-            <td height="20">URL</td>
-            <td>: <a href="http://kabulkurniawan.github.io/">http://kabulkurniawan.github.io</a></td>
+            <td height="20">URL</td></td><td>:</td>
+            <td><a href="http://kabulkurniawan.github.io/">http://kabulkurniawan.github.io</a></td>
             </tr>
             </tbody>
             </table>
