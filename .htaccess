@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteRule ^profile.*$ http://kabulkurniawan.github.io/profile/kabulkurniawan.ttl [R=301,L]
