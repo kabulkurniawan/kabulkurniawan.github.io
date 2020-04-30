@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <script src="js/solid-auth-client.bundle.js"></script>
+        <script src="js/solid-query-ldflex.bundle.js"></script> 
+    </head>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', async () => {
+        const kabul = solid.data['https://kabulkurniawan.inrupt.net/profile/card#me'];
+        var name = await kabul.vcard_note;
+        //alert(name);
+        document.getElementById("name").innerHTML=name;
+      });
+    
+    </script>
+
+    <body>
+        <h1 id="name"></h1>
+    </body>
+    
+       
+</html>
