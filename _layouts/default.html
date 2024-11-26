@@ -11,6 +11,33 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <!-- Font Awesome Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            text-align: center;
+            padding: 20px;
+        }
+        .social-media-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .social-media-links a {
+            text-decoration: none;
+            color: #555;
+            font-size: 24px;
+            transition: color 0.3s ease;
+        }
+        .social-media-links a:hover {
+            color: #0077b5; /* Default LinkedIn color */
+        }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -20,12 +47,12 @@
           <h1>Kabul Kurniawan</h1>
           <img src="https://raw.githubusercontent.com/kabulkurniawan/kabulkurniawan.github.io/refs/heads/master/_includes/kabulkurniawan.jpeg" alt="Kabul Kurniawan" width="200"/>
           <p>Post-Doc Researcher at Vienna University of Economics and Business. <a href="https://github.com/kabulkurniawan/kabulkurniawan.github.io/raw/master/CV/kabulkurniawan-cv.pdf">My full CV</a> Write me here: <a href="mailto:kabulkurniawan@wu.ac.id">kabulkurniawan@wu.ac.id</a>.</p>
-          <p>
+          <div class="social-media-links">
             <a href="https://www.linkedin.com/in/kabulkurniawan/"><i class="fa fa-linkedin"></i></a>
             <a href="http://twitter.com/kabulkurniawan"><i class="fa fa-twitter"></i></a>
             <a href="https://github.com/kabulkurniawan"><i class="fa fa-github"></i></a>
             <a href="http://instagram.com/kabulkurniawan"><i class="fa fa-instagram"></i></a>
-          </p>
+          </div>
         </div>
         {% if site.show_downloads %}
         <ul class="downloads">
