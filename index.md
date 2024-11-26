@@ -12,7 +12,6 @@
 - [Linked-Pro](hhttps://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid.
 
 
-
 ## Publications
 
 ### Proceedings
@@ -155,3 +154,15 @@
 ### Online Talks
 
 - [Decentralized Web](https://youtu.be/4cWkVbC2bNE)
+
+## Contact
+
+- For Personal inquiry please contact me at the following address information :
+> SimmeringerHaupstrasse 78/2/3
+> Vienna, Austria.
+> kabulkurniawan@gmail.com
+
+- For Official inquiry (Academic, Research) please contact me at the following address information :
+> Building D2, Entrance C, 2nd floor Welthandelsplatz 1 1020
+> Vienna, Austria. 
+> kabul.kurniawan@wu.ac.at
