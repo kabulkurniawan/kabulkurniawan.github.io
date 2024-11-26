@@ -51,7 +51,7 @@
 
 - **Kabul Kurniawan** and Ahmad Ashari. 2015. *Service Orchestration Using Enterprise Service Bus for Real-Time Government Executive Dashboard System*. 2015 International Conference on Data and Software Engineering (ICoDSE), Yogyakarta, pp. 207-212. [https://doi.org/10.1109/ICODSE.2015.7436999](https://doi.org/10.1109/ICODSE.2015.7436999)
 
-### B. Journal
+### Journals
 - Widodo, Aris Puji, Adi Wibowo, and **Kabul Kurniawan**. *Enhancing Software User Interface Testing Through Few Shot Deep Learning: A Novel Approach for Automated Accuracy and Usability Evaluation.* International Journal of Advanced Computer Science andApplications, West Yorkshire Vol. 14, Iss. 12, (2023). [https://doi.org/10.14569/IJACSA.2023.0141260](https://doi.org/10.14569/IJACSA.2023.0141260)
 
 - **Kabul Kurniawan**, Andreas Ekelhart, Elmar Kiesling, Gerald Qurichmary, A Min Tjoa. 2021. *KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data*. *Computers & Security*, Volume 121, 2022, 102828, ISSN 0167-4048. [https://doi.org/10.1016/j.cose.2022.102828](https://doi.org/10.1016/j.cose.2022.102828)
@@ -60,17 +60,17 @@
 
 - **Kabul Kurniawan** and Ahmad Ashari. *Penerapan SOA menggunakan Enterprise Service Bus pada Proses Pengecekan Status Perizinan Pemerintah Kabupaten Sleman*. *IJCCS (Indonesian Journal of Computing and Cybernetics Systems)*, Volume 10, Issue 2, 2016, pp. 137-148. [https://doi.org/10.22146/ijccs.15525](https://doi.org/10.22146/ijccs.15525)
 
-### C. Book Chapters
+### Book Chapters
 
 - Franz Krause, **Kabul Kurniawan**, Elmar Kiesling, Jorge Martinez-Gil, Thomas Hoch, Mario Pichler, Bernhard Heinzl, Bernhard Moser. (2024). *Leveraging Semantic Representations via Knowledge Graph Embeddings*. In: Soldatos, J. (eds) Artificial Intelligence in Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-46452-2_5
 
 - Jorge Martinez-Gil, Thomas Hoch, Mario Pichler, Bernhard Heinzl, Bernhard Moser, **Kabul Kurniawan**, Elmar Kiesling, Franz Krause (2024). *Examining the Adoption of Knowledge Graphs in the Manufacturing Industry: A Comprehensive Review*. In: Soldatos, J. (eds)Artificial Intelligence in Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-46452-2_4
 
-### D. Preprint
+### Preprint
 
 - Chang Sun, Federico Igne, Gianmarco Spinaci, **Kabul Kurniawan**, John Domingue, Marc Gallofré Ocaña, Glenda Amaral. *Privacy-Protection within the Evolution and Preservation of Knowledge Graphs: The VAD 2 ER approach towards Medical Citizen Science*. *International Semantic Web School (ISWS) Report (2019)*. [http://dx.doi.org/10.13140/RG.2.2.20536.47360](http://dx.doi.org/10.13140/RG.2.2.20536.47360)
 
-### E. Thesis
+### Thesis
 
 - **Ph.D. Thesis**: *Improving Cybersecurity through Semantic Security Log Monitoring, Analysis and Attack Reconstruction*, University of Vienna, Austria, March 2023.
 - **M.Sc. Thesis**: *Implementation Of Service Oriented Architecture (SOA) Using Enterprise Service Bus (ESB) as a Mediator Of Information System Integration*. Gadjah Mada University. Yogyakarta. Indonesia. August 2015
