@@ -15,7 +15,7 @@
 
 ## Publications
 
-### Conferences
+### Proceedings
 
 - Kropatschek, S., **Kurniawan, K.**, Boshale, P., Hollerer, S., Kiesling, E., & Winkler, D. (2023). *Towards A Knowledge Graph-based Framework for Integrated Security and Safety Analysis in Digital Production Systems*. Proceedings of the ISWC 2023 Posters, Demos, and Industry Tracks. 20th International Semantic Web Conference (ISWC). [http://hdl.handle.net/20.500.12708/192702](http://hdl.handle.net/20.500.12708/192702)
 
@@ -51,7 +51,7 @@
 
 - **Kabul Kurniawan** and Ahmad Ashari. 2015. *Service Orchestration Using Enterprise Service Bus for Real-Time Government Executive Dashboard System*. 2015 International Conference on Data and Software Engineering (ICoDSE), Yogyakarta, pp. 207-212. [https://doi.org/10.1109/ICODSE.2015.7436999](https://doi.org/10.1109/ICODSE.2015.7436999)
 
-### Journals
+### Articles
 - Widodo, Aris Puji, Adi Wibowo, and **Kabul Kurniawan**. *Enhancing Software User Interface Testing Through Few Shot Deep Learning: A Novel Approach for Automated Accuracy and Usability Evaluation.* International Journal of Advanced Computer Science andApplications, West Yorkshire Vol. 14, Iss. 12, (2023). [https://doi.org/10.14569/IJACSA.2023.0141260](https://doi.org/10.14569/IJACSA.2023.0141260)
 
 - **Kabul Kurniawan**, Andreas Ekelhart, Elmar Kiesling, Gerald Qurichmary, A Min Tjoa. 2021. *KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data*. *Computers & Security*, Volume 121, 2022, 102828, ISSN 0167-4048. [https://doi.org/10.1016/j.cose.2022.102828](https://doi.org/10.1016/j.cose.2022.102828)
