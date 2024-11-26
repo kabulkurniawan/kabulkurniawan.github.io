@@ -5,11 +5,11 @@
 
 
 - [SEPSES-CSKG](https://github.com/sepses/cyber-kg-converter/): Integrated Cybersecurity Knowledge Graphs.
-- [ICS-KG](https://github.com/sepses/ics-sec-kg): Integrated Cybersecurity Knowledge Graphs for Industrial Control System.
-- [Krystal](https://github.com/sepses/Krystal): Attack Reconstruction based on Knowledge Graph on Audit Data.
-- [VLog-Graph](https://github.com/sepses/VloGParser): Virtual Knowledge Graph for Distributed Security Log Analysis.
-- [CyRAG-KG](https://github.com/kabulkurniawan/CyRAG/): KG Enhanced Retrieval Augmented Generation for Cybersecurity .
-- [Linked-Pro](hhttps://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid (Decentralized Web).
+- [ICS-KG](https://github.com/sepses/ics-sec-kg): Integrated Cybersecurity Knowledge Graphs for ICS.
+- [Krystal](https://github.com/sepses/Krystal): Attack Reconstruction based on KGs on Audit Data.
+- [VLog-Graph](https://github.com/sepses/VloGParser): Virtual KGs for Distributed Security Log Analysis.
+- [CyRAG-KG](https://github.com/kabulkurniawan/CyRAG/): KG Enhanced RAG System for Cybersecurity .
+- [Linked-Pro](hhttps://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid.
 
 
 
