@@ -136,15 +136,15 @@
 #### Events:
 -  **Chief of Committee**: The Indonesian General Election Committee for Austria & Slovenia (Panitia Pemilihan Umum Luar Negeri – PPLN) (February 2023 – April 2024)
 - **Committee Member**, Panitia Pemilihan Luar Negeri (PPLN) Indonesia untuk Daerah Pemilihan Austria dan Slovenia, Vienna, Austria.
-- *: **Organizing Committee - Student Team**, SEMANTiCs Conference 2018, Vienna, Austria.
+- **Organizing Committee - Student Team**, SEMANTiCs Conference 2018, Vienna, Austria.
 - **Organizing Committee - Student Team**, International Semantic Web Conference (ISWC) 2017, Vienna, Austria.
 
 #### Organizations:
-- **2019 - Present**: **Chief Executive**, Indonesian and Malaysian Muslim Community in Austria (WAPENA).
-- **2017 - 2018**: **Education Division**, Indonesian Student and Youth Association in Austria (PPI Austria).
-- **2009 - 2010**: **Chief Executive Organization (CEO)**, Opera Campus Crew, Gajah Mada University, Indonesia.
-- **2008 - 2009**: **Head of Web and Multimedia Division**, Organisasi Mahasiswa Ahli TI Himakom, Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Indonesia. [omahti.web.id](http://omahti.web.id)
-- **2008 - 2009**: **Head of Public Relation and Networking Department**, Muslim Family (KMFM), Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Indonesia. [mii.mipa.ugm.ac.id](http://mii.mipa.ugm.ac.id)
+- **Chief Executive**, Indonesian and Malaysian Muslim Community in Austria (WAPENA), (2019 - 2023).
+- **Education Division**, Indonesian Student and Youth Association in Austria (PPI Austria), (2017 - 2018). 
+- **Chief Executive Organization (CEO)**, Opera Campus Crew, Gajah Mada University, Indonesia, (2009 - 2010). 
+- **Head of Web and Multimedia Division**, Organisasi Mahasiswa Ahli TI Himakom, Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Indonesia, (2008 - 2009). [omahti.web.id](http://omahti.web.id) 
+- **Head of Public Relation and Networking Department**, Muslim Family (KMFM), Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Indonesia, (2008 - 2009). [mii.mipa.ugm.ac.id](http://mii.mipa.ugm.ac.id)
 
 ## Teaching
 
