@@ -17,6 +17,14 @@
 
 ### Conferences
 
+- Kropatschek, S., **Kurniawan, K.**, Boshale, P., Hollerer, S., Kiesling, E., & Winkler, D. (2023). *Towards A Knowledge Graph-based Framework for Integrated Security and Safety Analysis in Digital Production Systems*. Proceedings of the ISWC 2023 Posters, Demos, and Industry Tracks. 20th International Semantic Web Conference (ISWC). [http://hdl.handle.net/20.500.12708/192702](http://hdl.handle.net/20.500.12708/192702)
+
+- Krause, F., **Kurniawan, K.**, Kiesling, E., Paulheim, H., Polleres, A. (2023). *On the Representation of Dynamic BPMN Process Executions in Knowledge Graphs*. In: OrtizRodriguez, F., Villazón-Terrazas, B., Tiwari, S., Bobed, C. (eds) Knowledge Graphs and Semantic Web. KGSWC 2023. Lecture Notes in Computer Science, vol 14382. Springer, Cham. [https://doi.org/10.1007/978-3-031-47745-4_8](https://doi.org/10.1007/978-3-031-47745-4_8)
+
+- Bayomie, D., Revoredo, K., Bachhofner, S., **Kurniawan, K.**, Kiesling, E., & Mendling, J. (2022, November). *Analyzing Manufacturing Process By Enabling Process Mining on Sensor Data*. In The Practice of Enterprise Modeling (PoEM) Workshops. 2022. [https://ceur-ws.org/Vol-3298/paper_DTE_625.pdf](https://ceur-ws.org/Vol-3298/paper_DTE_625.pdf)
+
+- Bachhofner, S., **Kurniawan, K.**, Kiesling, E., Revoredo, K., Bayomie, D. (2022). *Knowledge Graph Supported Machine Parameterization for the Injection Moulding Industry*. In:Knowledge Graphs and Semantic Web . KGSWC 2022. vol 1686. Springer, Cham.[https://doi.org/10.1007/978-3-031-21422-6_8](https://doi.org/10.1007/978-3-031-21422-6_8)
+
 - Stefan Bachhofner, Elmar Kiesling, **Kabul Kurniawan**, Emanuel Sallinger, Philipp Waibel. 2021. *Knowledge Graph Modularization for Cyber-Physical Production Systems*. Proceedings of the ISWC 2021 Posters, Demos and Industry Tracks: From Novel Ideas to Industrial Practice co-located with 20th International Semantic Web Conference (ISWC) 2021. [http://ceur-ws.org/Vol-2980/paper333.pdf](http://ceur-ws.org/Vol-2980/paper333.pdf)
 
 - **Kabul Kurniawan**, Andreas Ekelhart, and Elmar Kiesling. 2021. *An ATT&CK-KG for Linking Cybersecurity Attacks to Adversary Tactics and Techniques*. Proceedings of the ISWC 2021 Posters, Demos and Industry Tracks: From Novel Ideas to Industrial Practice co-located with 20th International Semantic Web Conference (ISWC) 2021. [http://ceur-ws.org/Vol-2980/paper363.pdf](http://ceur-ws.org/Vol-2980/paper363.pdf)
@@ -44,6 +52,7 @@
 - **Kabul Kurniawan** and Ahmad Ashari. 2015. *Service Orchestration Using Enterprise Service Bus for Real-Time Government Executive Dashboard System*. 2015 International Conference on Data and Software Engineering (ICoDSE), Yogyakarta, pp. 207-212. [https://doi.org/10.1109/ICODSE.2015.7436999](https://doi.org/10.1109/ICODSE.2015.7436999)
 
 ### B. Journal
+- Widodo, Aris Puji, Adi Wibowo, and Kabul Kurniawan. *Enhancing Software User Interface Testing Through Few Shot Deep Learning: A Novel Approach for Automated Accuracy and Usability Evaluation.* International Journal of Advanced Computer Science andApplications, West Yorkshire Vol. 14, Iss. 12, (2023). [https://doi.org/10.14569/IJACSA.2023.0141260](https://doi.org/10.14569/IJACSA.2023.0141260)
 
 - **Kabul Kurniawan**, Andreas Ekelhart, Elmar Kiesling, Gerald Qurichmary, A Min Tjoa. 2021. *KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data*. *Computers & Security*, Volume 121, 2022, 102828, ISSN 0167-4048. [https://doi.org/10.1016/j.cose.2022.102828](https://doi.org/10.1016/j.cose.2022.102828)
 
@@ -51,27 +60,36 @@
 
 - **Kabul Kurniawan** and Ahmad Ashari. *Penerapan SOA menggunakan Enterprise Service Bus pada Proses Pengecekan Status Perizinan Pemerintah Kabupaten Sleman*. *IJCCS (Indonesian Journal of Computing and Cybernetics Systems)*, Volume 10, Issue 2, 2016, pp. 137-148. [https://doi.org/10.22146/ijccs.15525](https://doi.org/10.22146/ijccs.15525)
 
-### C. Preprint
+### C. Book Chapters
+
+- Franz Krause, **Kabul Kurniawan**, Elmar Kiesling, Jorge Martinez-Gil, Thomas Hoch, Mario Pichler, Bernhard Heinzl, Bernhard Moser. (2024). *Leveraging Semantic Representations via Knowledge Graph Embeddings*. In: Soldatos, J. (eds) Artificial Intelligence in Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-46452-2_5
+
+- Jorge Martinez-Gil, Thomas Hoch, Mario Pichler, Bernhard Heinzl, Bernhard Moser, **Kabul Kurniawan**, Elmar Kiesling, Franz Krause (2024). *Examining the Adoption of Knowledge Graphs in the Manufacturing Industry: A Comprehensive Review*. In: Soldatos, J. (eds)Artificial Intelligence in Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-46452-2_4
+### D. Preprint
 
 - Chang Sun, Federico Igne, Gianmarco Spinaci, **Kabul Kurniawan**, John Domingue, Marc Gallofré Ocaña, Glenda Amaral. *Privacy-Protection within the Evolution and Preservation of Knowledge Graphs: The VAD 2 ER approach towards Medical Citizen Science*. *International Semantic Web School (ISWS) Report (2019)*. [http://dx.doi.org/10.13140/RG.2.2.20536.47360](http://dx.doi.org/10.13140/RG.2.2.20536.47360)
 
-### D. Others
+### E. Thesis
 
-- **Ph.D. Thesis**: *"Improving Cybersecurity through Semantic Security Log Monitoring, Analysis and Attack Reconstruction"*, University of Vienna, Austria, March 2023.
-- **M.Sc. Thesis**: *"Implementation Of Service Oriented Architecture (SOA) Using Enterprise Service Bus (ESB) as a
+- **Ph.D. Thesis**: *Improving Cybersecurity through Semantic Security Log Monitoring, Analysis and Attack Reconstruction*, University of Vienna, Austria, March 2023.
+- **M.Sc. Thesis**: *Implementation Of Service Oriented Architecture (SOA) Using Enterprise Service Bus (ESB) as a Mediator Of Information System Integration*. Gadjah Mada University. Yogyakarta. Indonesia. August 2015
+- **B.Sc. Thesis**: *Web Service Implementation Using WSO2 Framework (Case Study: Payroll Information System for Sleman Regency Government)*. Gadjah Mada University. Yogyakarta. Indonesia. December 2012
 
 ## Awards
-- **January 2017 - 2019**: **Awardee** of Beasiswa Unggulan Luar Negeri (Doctoral Scholarship) from Ministry of Education and Culture, Indonesia.
-- **February 2013 - 2015**: **Awardee** of BPPDN Dikti (Master Scholarship) from Ministry of Research and Higher Education (Dikti), Indonesia.
-- **February 2011 - 2013**: **Awardee** of Prestigious Student Scholarship (Beasiswa PPA), Gadjah Mada University.
-- **July 2011**: **Finalist** of National Student Science Week - Pekan Ilmiah Mahasiswa Nasional (PIMNAS) for the title *"SIPENI: Sistem Peringatan Dini Daerah Aliran Sungai Gunung Merapi"*, from Dikti.
-- **March 2011**: **Awardee** of Creativity Program of College Student Grant (PKM) for the title *"SAJAK: Sistem Anti Penjiplakan"*, from Dikti.
-- **March 2010**: **Awardee** of Creativity Program of College Student Grant (PKM) for the title *"Sistem Monitoring Akses Internet untuk Meningkatkan Kinerja Karyawan"*, from Dikti.
-- **August 2008 - July 2010**: **Awardee** of Van Deventer-Maas Stichting (VDMS) - Prestigious Student Scholarship (Free of Education Fee), from the Netherlands.
+- **Research Award**: WU Award for Oustanding Research Achievement for Journal titled: KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data. Vienna, 2023.
+- **Publication Award**: Third Best Paper for Paper titled: Knowledge Graph Supported Machine Parameterization for the Injection Moulding Industry at Knowledge Graphs and Semantic Web (KGSWC). Madrid Spain. 2022
+- **Awardee** of Beasiswa Unggulan Luar Negeri (Doctoral Scholarship) from Ministry of Education and Culture, Indonesia. (2017 - 2019)
+- **Awardee** of BPPDN Dikti (Master Scholarship) from Ministry of Research and Higher Education (Dikti), Indonesia. (2013 - 2015)
+- **Awardee** of Prestigious Student Scholarship (Beasiswa PPA), Gadjah Mada University.(2011 - 2013)
+- **Finalist** of National Student Science Week - Pekan Ilmiah Mahasiswa Nasional (PIMNAS) for the title *"SIPENI: Sistem Peringatan Dini Daerah Aliran Sungai Gunung Merapi"*, from Dikti. (2011)
+- **Awardee** of Creativity Program of College Student Grant (PKM) for the title *"SAJAK: Sistem Anti Penjiplakan"*, from Dikti.(2011)
+- **Awardee** of Creativity Program of College Student Grant (PKM) for the title *"Sistem Monitoring Akses Internet untuk Meningkatkan Kinerja Karyawan"*, from Dikti. (2010)
+- **Awardee** of Van Deventer-Maas Stichting (VDMS) - Prestigious Student Scholarship (Free of Education Fee), from the Netherlands. (2008-2010)
 
 
 ## Activities
 ### Speaker at Seminars, Workshops, Talkshows:
+- Kabul Kurniawan, **"Knowledge Graph for Cybersecurity – an Introduction"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria March 2021
 - Kabul Kurniawan, **"Pengenalan Teknologi Web Terdesentralisasi"**, PHP Indonesia Online Learning, PHP Indonesia, Indonesia, 2021.
 - Kabul Kurniawan, **"The Decentralized Web"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria, April 2020.
 - Kabul Kurniawan, **"Introduction to the Web of Data"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria, December 29, 2019.
@@ -96,6 +114,10 @@
 ### Conferences/Summer Schools:
 
 #### Conferences:
+- **Presenter**, The 22th International Semantic Web Conference (ISWC), 2023. Athen, Greece.
+- **Presenter**, The 20th International Semantic Web Conference (ISWC), 2021 (Virtual)
+- **Presenter**, The 16th International Conference on Availability, Reliability, and Security (ARES Conference) 2021, Vienna,Austria (Virtual)
+- **Presenter**, 35th International Conference on Information Security and Privacy Protection – (IFIP Sec 2020), Maribor, Slovenia (Virtual)
 - **Invited - Presenter**, 35th International Conference on Information Security and Privacy Protection – IFIP Sec 2020, Maribor, Slovenia.
 - **Invited - Presenter**, SEMANTiCs Conference, 2019, Karlsruhe, Germany.
 - **Presenter**, European Semantic Web Conference (ESWC), 2018, Heraklion, Crete, Greece.
@@ -104,15 +126,17 @@
 - **Presenter**, International Conference on Data and Software Engineering (ICoDSE), 2015, Yogyakarta, Indonesia.
 
 #### Summer Schools:
+- **Student**, The 17th Reasoning Web Summer School (RW) 2021. Virtual
 - **Student**, International Semantic Web Schools (ISWS) 2019, Bertinoro, Italy.
 - **Student**, The 3rd KEYSTONE Training School on Keyword search in Big Linked Data, 2017, Vienna, Austria.
 
 ### Organizational / Event Activities:
 
 #### Events:
-- **2018 - 2019**: **Committee Member**, Panitia Pemilihan Luar Negeri (PPLN) Indonesia untuk Daerah Pemilihan Austria dan Slovenia, Vienna, Austria.
-- **2018**: **Organizing Committee - Student Team**, SEMANTiCs Conference 2018, Vienna, Austria.
-- **2017**: **Organizing Committee - Student Team**, International Semantic Web Conference (ISWC) 2017, Vienna, Austria.
+-  **Chief of Committee**: The Indonesian General Election Committee for Austria & Slovenia (Panitia Pemilihan Umum Luar Negeri – PPLN) (February 2023 – April 2024)
+- **Committee Member**, Panitia Pemilihan Luar Negeri (PPLN) Indonesia untuk Daerah Pemilihan Austria dan Slovenia, Vienna, Austria.
+- *: **Organizing Committee - Student Team**, SEMANTiCs Conference 2018, Vienna, Austria.
+- **Organizing Committee - Student Team**, International Semantic Web Conference (ISWC) 2017, Vienna, Austria.
 
 #### Organizations:
 - **2019 - Present**: **Chief Executive**, Indonesian and Malaysian Muslim Community in Austria (WAPENA).
