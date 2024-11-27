@@ -24,8 +24,6 @@
 
 - Anjomshoaa, A., **Kurniawan, K.**, & Mahdavi, A. (2024). *Empowering Digital Humanism in Smart Built Environments through SOLID Data Spaces*. Solid Symposium, Leuven, Belgium. [http://dx.doi.org/10.13140/RG.2.2.30581.79841](http://dx.doi.org/10.13140/RG.2.2.30581.79841)
 
-- Heinzl, B., Silvina, A., Krause, F., Schwarz, N., **Kurniawan, K.**, Kiesling, E., ... & Moser, B. (2024, April). *Towards Integrating Knowledge Graphs into Process-Oriented Human-AI Collaboration in Industry*. In International Conference on Software Quality (pp. 76-87). Cham: Springer Nature Switzerland. [https://doi.org/10.1007/978-3-031-56281-5_5](https://doi.org/10.1007/978-3-031-56281-5_5)
-
 - Kropatschek, S., **Kurniawan, K.**, Boshale, P., Hollerer, S., Kiesling, E., & Winkler, D. (2023). *Towards A Knowledge Graph-based Framework for Integrated Security and Safety Analysis in Digital Production Systems*. Proceedings of the ISWC 2023 Posters, Demos, and Industry Tracks. 20th International Semantic Web Conference (ISWC). [http://hdl.handle.net/20.500.12708/192702](http://hdl.handle.net/20.500.12708/192702)
 
 - Krause, F., **Kurniawan, K.**, Kiesling, E., Paulheim, H., Polleres, A. (2023). *On the Representation of Dynamic BPMN Process Executions in Knowledge Graphs*. In: OrtizRodriguez, F., Villazón-Terrazas, B., Tiwari, S., Bobed, C. (eds) Knowledge Graphs and Semantic Web. KGSWC 2023. Lecture Notes in Computer Science, vol 14382. Springer, Cham. [https://doi.org/10.1007/978-3-031-47745-4_8](https://doi.org/10.1007/978-3-031-47745-4_8)
@@ -61,6 +59,9 @@
 - **Kabul Kurniawan** and Ahmad Ashari. 2015. *Service Orchestration Using Enterprise Service Bus for Real-Time Government Executive Dashboard System*. 2015 International Conference on Data and Software Engineering (ICoDSE), Yogyakarta, pp. 207-212. [https://doi.org/10.1109/ICODSE.2015.7436999](https://doi.org/10.1109/ICODSE.2015.7436999)
 
 ### Articles
+
+- Heinzl, B., Silvina, A., Krause, F., Schwarz, N., **Kurniawan, K.**, Kiesling, E., ... & Moser, B. (2024, April). *Towards Integrating Knowledge Graphs into Process-Oriented Human-AI Collaboration in Industry*. In International Conference on Software Quality (pp. 76-87). Cham: Springer Nature Switzerland. [https://doi.org/10.1007/978-3-031-56281-5_5](https://doi.org/10.1007/978-3-031-56281-5_5)
+
 - Widodo, Aris Puji, Adi Wibowo, and **Kabul Kurniawan**. *Enhancing Software User Interface Testing Through Few Shot Deep Learning: A Novel Approach for Automated Accuracy and Usability Evaluation.* International Journal of Advanced Computer Science andApplications, West Yorkshire Vol. 14, Iss. 12, (2023). [https://doi.org/10.14569/IJACSA.2023.0141260](https://doi.org/10.14569/IJACSA.2023.0141260)
 
 - **Kabul Kurniawan**, Andreas Ekelhart, Elmar Kiesling, Gerald Qurichmary, A Min Tjoa. 2021. *KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data*. *Computers & Security*, Volume 121, 2022, 102828, ISSN 0167-4048. [https://doi.org/10.1016/j.cose.2022.102828](https://doi.org/10.1016/j.cose.2022.102828)
