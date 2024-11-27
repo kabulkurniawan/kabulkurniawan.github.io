@@ -16,6 +16,16 @@
 
 ### Proceedings
 
+- **Kurniawan, K.**, Kiesling, E., Winkler, D., & Ekelhart, A. *The ICS-SEC KG: An Integrated Cybersecurity Resource for Industrial Control Systems*. In proceeding for International Semantic Web Conference 2024. Baltimore, Maryland. USA. [https://doi.org/10.1007/978-3-031-77847-6_9](https://doi.org/10.1007/978-3-031-77847-6_9)
+
+- **Kurniawan, K.**, Kiesling, E., & Ekelhart, A. (2022). *CyKG-RAG: Towards knowledge-graph enhanced retrieval augmented generation for cybersecurity*. Retrieval Augmented Generation Enhanced Knowledge Graph (RAGE-KG) 2024 in co-location with International Semantic Web Conference 2024. Baltimore, Maryland. USA. [https://2024.rage-kg.org/papers/RAGE-KG_2024_paper_1.pdf](https://2024.rage-kg.org/papers/RAGE-KG_2024_paper_1.pdf)
+
+- Krause, F., Paulheim, H., Kiesling, E., **Kurniawan, K.**, Leva, M. C., Estrada-Lugo, H. D., ... & Moser, B. A. (2024). *Managing human-AI collaborations within industry 5.0 scenarios via knowledge graphs: key challenges and lessons learned*. Frontiers in Artificial Intelligence, 7, 1247712. [https://doi.org/10.3389/frai.2024.1247712](https://doi.org/10.3389/frai.2024.1247712)
+
+- Anjomshoaa, A., **Kurniawan, K.**, & Mahdavi, A. (2024). *Empowering Digital Humanism in Smart Built Environments through SOLID Data Spaces*. Solid Symposium, Leuven, Belgium. [http://dx.doi.org/10.13140/RG.2.2.30581.79841](http://dx.doi.org/10.13140/RG.2.2.30581.79841)
+
+- Heinzl, B., Silvina, A., Krause, F., Schwarz, N., **Kurniawan, K.**, Kiesling, E., ... & Moser, B. (2024, April). *Towards Integrating Knowledge Graphs into Process-Oriented Human-AI Collaboration in Industry*. In International Conference on Software Quality (pp. 76-87). Cham: Springer Nature Switzerland. [https://doi.org/10.1007/978-3-031-56281-5_5](https://doi.org/10.1007/978-3-031-56281-5_5)
+
 - Kropatschek, S., **Kurniawan, K.**, Boshale, P., Hollerer, S., Kiesling, E., & Winkler, D. (2023). *Towards A Knowledge Graph-based Framework for Integrated Security and Safety Analysis in Digital Production Systems*. Proceedings of the ISWC 2023 Posters, Demos, and Industry Tracks. 20th International Semantic Web Conference (ISWC). [http://hdl.handle.net/20.500.12708/192702](http://hdl.handle.net/20.500.12708/192702)
 
 - Krause, F., **Kurniawan, K.**, Kiesling, E., Paulheim, H., Polleres, A. (2023). *On the Representation of Dynamic BPMN Process Executions in Knowledge Graphs*. In: OrtizRodriguez, F., Villazón-Terrazas, B., Tiwari, S., Bobed, C. (eds) Knowledge Graphs and Semantic Web. KGSWC 2023. Lecture Notes in Computer Science, vol 14382. Springer, Cham. [https://doi.org/10.1007/978-3-031-47745-4_8](https://doi.org/10.1007/978-3-031-47745-4_8)
