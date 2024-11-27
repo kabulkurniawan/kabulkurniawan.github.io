@@ -88,6 +88,7 @@
 
 ## Awards
 - **Research Award**: WU Award for Oustanding Research Achievement for Journal titled: KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data. Vienna, 2023.
+- **Hackathon Winner**: 3rd Winner, Solid for Social Networks Hackathon, Inrupt, April 2023
 - **Publication Award**: Third Best Paper for Paper titled: Knowledge Graph Supported Machine Parameterization for the Injection Moulding Industry at Knowledge Graphs and Semantic Web (KGSWC). Madrid Spain. 2022
 - **Awardee** of Beasiswa Unggulan Luar Negeri (Doctoral Scholarship) from Ministry of Education and Culture, Indonesia. (2017 - 2019)
 - **Awardee** of BPPDN Dikti (Master Scholarship) from Ministry of Research and Higher Education (Dikti), Indonesia. (2013 - 2015)
@@ -100,12 +101,15 @@
 
 ## Activities
 ### Speaker at Seminars, Workshops, Talkshows:
+
+- Kabul Kurniawan, **"Knowledge Graph for Collaborative AI"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria Oktober 2024
+- Kabul Kurniawan, **"Perkembangan Teknologi dalam Perspektif Islam"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria Oktober 2023
 - Kabul Kurniawan, **"Knowledge Graph for Cybersecurity – an Introduction"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria March 2021
 - Kabul Kurniawan, **"Pengenalan Teknologi Web Terdesentralisasi"**, PHP Indonesia Online Learning, PHP Indonesia, Indonesia, 2021.
 - Kabul Kurniawan, **"The Decentralized Web"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria, April 2020.
 - Kabul Kurniawan, **"Introduction to the Web of Data"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria, December 29, 2019.
-- Kabul Kurniawan, **"Seminar Tugas Akhir Komputer dan Sistem Informasi"**, Himpunan Mahasiswa Komputer dan Sistem Informasi (Himakomsi), Sekolah Vokasi Universitas Gadjah Mada, Yogyakarta, May 3, 2012.
 - Kabul Kurniawan, **"IT Blog & Web Hosting"**, Badan Eksekutif Mahasiswa Peternakan, Fakultas Peternakan, Gadjah Mada University, Yogyakarta, October 29, 2011.
+- Kabul Kurniawan, **"Seminar Tugas Akhir Komputer dan Sistem Informasi"**, Himpunan Mahasiswa Komputer dan Sistem Informasi (Himakomsi), Sekolah Vokasi Universitas Gadjah Mada, Yogyakarta, May 3, 2012.
 - Kabul Kurniawan, **"Menjadi Mahasiswa 2.0"**, First Gathering of Computer Kids - Firefoks, Himpunan Mahasiswa Ilmu Komputer, Gadjah Mada University, Yogyakarta, October 8, 2011.
 - Kabul Kurniawan, **"Implementasi Cloud Computing di Blog"**, Sekolah Media Informasi MII, Keluarga Muslim FMIPA, Gadjah Mada University, Yogyakarta, March 27, 2011.
 - Kabul Kurniawan, **"Teknik Presentasi"**, Sekolah Riset dan Jurnalistik 2011, Lingkar Studi Sains (LSIS) FMIPA, Gadjah Mada University, Yogyakarta, March 16, 2011.
@@ -125,6 +129,7 @@
 ### Conferences/Summer Schools:
 
 #### Conferences:
+- **Presenter**, The 23th International Semantic Web Conference (ISWC), 2024. Baltimore, Maryland, USA.
 - **Presenter**, The 22th International Semantic Web Conference (ISWC), 2023. Athen, Greece.
 - **Presenter**, The 20th International Semantic Web Conference (ISWC), 2021 (Virtual)
 - **Presenter**, The 16th International Conference on Availability, Reliability, and Security (ARES Conference) 2021, Vienna,Austria (Virtual)
@@ -145,7 +150,7 @@
 
 #### Events:
 -  **Chief of Committee**: The Indonesian General Election Committee for Austria & Slovenia (Panitia Pemilihan Umum Luar Negeri – PPLN) (February 2023 – April 2024)
-- **Committee Member**, Panitia Pemilihan Luar Negeri (PPLN) Indonesia untuk Daerah Pemilihan Austria dan Slovenia, Vienna, Austria.
+- **Committee Member**, The Indonesian General Election Committee for Austria & Slovenia (Panitia Pemilihan Umum Luar Negeri – PPLN). (April 2018 – August 2019)
 - **Organizing Committee - Student Team**, SEMANTiCs Conference 2018, Vienna, Austria.
 - **Organizing Committee - Student Team**, International Semantic Web Conference (ISWC) 2017, Vienna, Austria.
 
