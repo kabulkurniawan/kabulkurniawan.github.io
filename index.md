@@ -82,7 +82,7 @@
 
 ### Thesis
 
-- **Ph.D. Thesis**: *Improving Cybersecurity through Semantic Security Log Monitoring, Analysis and Attack Reconstruction*, University of Vienna, Austria, March 2023.
+- **Ph.D. Thesis**: *Improving Cybersecurity through Semantic Security Log Monitoring, Analysis and Attack Reconstruction*, University of Vienna, Austria, March 2023. https://services.phaidra.univie.ac.at/api/object/o:1633094/get
 - **M.Sc. Thesis**: *Implementation Of Service Oriented Architecture (SOA) Using Enterprise Service Bus (ESB) as a Mediator Of Information System Integration*. Gadjah Mada University. Yogyakarta. Indonesia. August 2015
 - **B.Sc. Thesis**: *Web Service Implementation Using WSO2 Framework (Case Study: Payroll Information System for Sleman Regency Government)*. Gadjah Mada University. Yogyakarta. Indonesia. December 2012
 
