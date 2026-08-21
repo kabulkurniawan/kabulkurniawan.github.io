@@ -3,23 +3,6 @@
 
 @import "{{ site.theme }}";
 
-// Widen the page on desktop. Scoped above the theme's 960px stacking
-// breakpoint so the mobile single-column layout is untouched.
-@media print, screen and (min-width: 961px) {
-  .wrapper {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-
-  // header keeps its fixed 270px width/position from the theme; section
-  // is floated right and was hard-coded to 500px, which left a growing
-  // gap once the wrapper widened. Let it fill the remaining space.
-  section {
-    width: calc(100% - 320px);
-  }
-}
-
 .menu {
   list-style-type: none;
   margin: auto;
