@@ -1,7 +1,7 @@
-## Short Biography
+## <i class="fas fa-user"></i> Short Biography
 [Kabul Kurniawan](https://kabulkurniawan.github.io) received Ph.D. degree in Computer Science from University of Vienna, Austria in 2023. He previously received a B.Sc and M.Sc degree in Computer Science at Universitas Gadjah Mada (UGM) Indonesia in 2013 and 2015 respectively. He was a research assistant at the Institute of Software and Information System, Vienna University of Technology in 2018 prior joining the Institute of Data, Process, and Knowledge Management as a project assistant at Vienna University of Business and Economics, in 2020. He is currently working as Assistant Professor at Gadjah Mada University, Indonesia. He previously worked as Research Engineer at Center for Digital Production (CDP) Austria as well as a Post-Doctoral Researcher at Vienna University of Business and Economics. His research includes Cybersecurity, Data Interoperability, Knowledge Graphs, and Industry 4.0. He has published several research papers in top-tier journals (Comp. & Security, MAKE) and has presented his work at prestigious top-tiers international conferences (e.g., ESWC, ISWC, Semantics, ARES, IFIP SEC, etc). 
 
-## Projects
+## <i class="fas fa-diagram-project"></i> Projects
 
 <style>
 .label-new {
@@ -33,7 +33,7 @@
 - [AgentO](https://agentic-patterns.github.io/): An Ontology for Modeling Agentic AI Systems. <span class="label-new">New</span>
 
 
-## Publications
+## <i class="fas fa-book"></i> Publications
 
 ### Proceedings
 
@@ -121,7 +121,7 @@
 - **M.Sc. Thesis**: *Implementation Of Service Oriented Architecture (SOA) Using Enterprise Service Bus (ESB) as a Mediator Of Information System Integration*. Gadjah Mada University. Yogyakarta. Indonesia. August 2015
 - **B.Sc. Thesis**: *Web Service Implementation Using WSO2 Framework (Case Study: Payroll Information System for Sleman Regency Government)*. Gadjah Mada University. Yogyakarta. Indonesia. December 2012
 
-## Awards
+## <i class="fas fa-trophy"></i> Awards
 - **Research Award**: WU Award for Oustanding Research Achievement for Journal titled: KRYSTAL: Knowledge Graph-based Framework for Tactical Attack Discovery in Audit Data. Vienna, 2023.
 - **Hackathon Winner**: 3rd Winner, Solid for Social Networks Hackathon, Inrupt, April 2023
 - **Publication Award**: Third Best Paper for Paper titled: Knowledge Graph Supported Machine Parameterization for the Injection Moulding Industry at Knowledge Graphs and Semantic Web (KGSWC). Madrid Spain. 2022
@@ -134,7 +134,7 @@
 - **Awardee** of Van Deventer-Maas Stichting (VDMS) - Prestigious Student Scholarship (Free of Education Fee), from the Netherlands. (2008-2010)
 
 
-## Activities
+## <i class="fas fa-people-group"></i> Activities
 ### Speaker at Seminars, Workshops, Talkshows:
 
 - Kabul Kurniawan, **"Knowledge Graph for Collaborative AI"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria Oktober 2024
@@ -196,7 +196,7 @@
 - **Head of Web and Multimedia Division**, Organisasi Mahasiswa Ahli TI Himakom, Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Indonesia, (2008 - 2009). [omahti.web.id](http://omahti.web.id) 
 - **Head of Public Relation and Networking Department**, Muslim Family (KMFM), Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Indonesia, (2008 - 2009). [mii.mipa.ugm.ac.id](http://mii.mipa.ugm.ac.id)
 
-## Teaching
+## <i class="fas fa-chalkboard-user"></i> Teaching
 
 ### Vienna University of Economics and Business
 
@@ -206,7 +206,7 @@
 
 - [Decentralized Web](https://youtu.be/4cWkVbC2bNE)
 
-## Contact
+## <i class="fas fa-address-card"></i> Contact
 
 - For Personal inquiry please contact me at the following address information :
 > SimmeringerHaupstrasse 78/2/3
