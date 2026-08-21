@@ -37,11 +37,11 @@
 
 ### Proceedings
 
-- Ekelhart, A., **Kurniawan, K.**, Ekaputra, F. J., & Kiesling, E. (2026). *AgentO: An Ontology for Modeling Agentic AI Systems*. Extended Semantic Web Conference (ESWC) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- Ekelhart, A., **Kurniawan, K.**, Ekaputra, F. J., & Kiesling, E. (2026). *AgentO: An Ontology for Modeling Agentic AI Systems*. Extended Semantic Web Conference (ESWC) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id) <span class="label-new">New</span>
 
-- Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id) <span class="label-new">New</span>
 
-- Seutia, A. B., Firdaus, M. Z., Ramadhan, M. A., **Kurniawan, K.**, Santriaji, M. H., Amrizal, ... & Takizawa, H. (2026). *Fully Homomorphic Encryption Inference of Neural Networks Using CKKS-TFHE Scheme Switching and Accelerated Linear Layers*. Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIA CCS) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- Seutia, A. B., Firdaus, M. Z., Ramadhan, M. A., **Kurniawan, K.**, Santriaji, M. H., Amrizal, ... & Takizawa, H. (2026). *Fully Homomorphic Encryption Inference of Neural Networks Using CKKS-TFHE Scheme Switching and Accelerated Linear Layers*. Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIA CCS) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id) <span class="label-new">New</span>
 
 - **Kurniawan, K.**, Ardian, R. F., Kiesling, E., & Ekelhart, A. (2025). *AgCyRAG: an Agentic Knowledge Graph based RAG Framework for Automated Security Analysis*. International Semantic Web Conference (ISWC) 2025. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
 
