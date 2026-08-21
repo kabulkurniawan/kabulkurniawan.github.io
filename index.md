@@ -10,6 +10,8 @@
 - [VLog-Graph](https://github.com/sepses/VloGParser): Virtual KGs for Distributed Security Log Analysis.
 - [CyRAG-KG](https://github.com/kabulkurniawan/CyRAG/): KG Enhanced RAG System for Cybersecurity .
 - [Linked-Pro](hhttps://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid.
+- [AgentO](https://agentic-patterns.github.io/): An Ontology for Modeling Agentic AI Systems.
+- [O-Prime](https://oprime-repository.netlify.app/): ODRL-based Privacy Monitoring Framework for Decentralized Environments.
 
 
 ## Publications
