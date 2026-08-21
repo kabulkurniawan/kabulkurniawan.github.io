@@ -3,6 +3,18 @@
 
 ## Projects
 
+<style>
+.label-new {
+  color: #e02323;
+  font-weight: bold;
+  font-size: 0.75em;
+  animation: blink-new 1s steps(2, start) infinite;
+}
+@keyframes blink-new {
+  to { visibility: hidden; }
+}
+</style>
+
 ### Security KG
 
 - [SEPSES-CSKG](https://github.com/sepses/cyber-kg-converter/): Integrated Cybersecurity Knowledge Graphs.
@@ -14,11 +26,11 @@
 ### Privacy and Decentralization
 
 - [Linked-Pro](hhttps://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid.
-- [O-Prime](https://oprime-repository.netlify.app/): ODRL-based Privacy Monitoring Framework for Decentralized Environments. **`New`**
+- [O-Prime](https://oprime-repository.netlify.app/): ODRL-based Privacy Monitoring Framework for Decentralized Environments. <span class="label-new">New</span>
 
 ### Agentic AI
 
-- [AgentO](https://agentic-patterns.github.io/): An Ontology for Modeling Agentic AI Systems. **`New`**
+- [AgentO](https://agentic-patterns.github.io/): An Ontology for Modeling Agentic AI Systems. <span class="label-new">New</span>
 
 
 ## Publications
