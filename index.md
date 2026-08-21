@@ -37,17 +37,17 @@
 
 ### Proceedings
 
-- Ekelhart, A., **Kurniawan, K.**, Ekaputra, F. J., & Kiesling, E. (2026). *AgentO: An Ontology for Modeling Agentic AI Systems*. Extended Semantic Web Conference (ESWC) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id) <span class="label-new">New</span>
+- Ekelhart, A., **Kurniawan, K.**, Ekaputra, F. J., & Kiesling, E. (2026). *AgentO: An Ontology for Modeling Agentic AI Systems*. Extended Semantic Web Conference (ESWC) 2026. [https://doi.org/10.1007/978-3-032-25159-6_16](https://doi.org/10.1007/978-3-032-25159-6_16) <span class="label-new">New</span>
 
-- Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id) <span class="label-new">New</span>
+- Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [https://oprime-repository.netlify.app/](https://oprime-repository.netlify.app/) <span class="label-new">New</span>
 
-- Seutia, A. B., Firdaus, M. Z., Ramadhan, M. A., **Kurniawan, K.**, Santriaji, M. H., Amrizal, ... & Takizawa, H. (2026). *Fully Homomorphic Encryption Inference of Neural Networks Using CKKS-TFHE Scheme Switching and Accelerated Linear Layers*. Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIA CCS) 2026. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id) <span class="label-new">New</span>
+- Seutia, A. B., Firdaus, M. Z., Ramadhan, M. A., **Kurniawan, K.**, Santriaji, M. H., Amrizal, ... & Takizawa, H. (2026). *Fully Homomorphic Encryption Inference of Neural Networks Using CKKS-TFHE Scheme Switching and Accelerated Linear Layers*. Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIA CCS) 2026. [https://doi.org/10.1145/3779208.3807493](https://doi.org/10.1145/3779208.3807493) <span class="label-new">New</span>
 
-- **Kurniawan, K.**, Ardian, R. F., Kiesling, E., & Ekelhart, A. (2025). *AgCyRAG: an Agentic Knowledge Graph based RAG Framework for Automated Security Analysis*. International Semantic Web Conference (ISWC) 2025. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- **Kurniawan, K.**, Ardian, R. F., Kiesling, E., & Ekelhart, A. (2025). *AgCyRAG: an Agentic Knowledge Graph based RAG Framework for Automated Security Analysis*. RAGE-KG Workshop, International Semantic Web Conference (ISWC) 2025. [https://ceur-ws.org/Vol-4079/paper11.pdf](https://ceur-ws.org/Vol-4079/paper11.pdf)
 
-- Adi, A. C., Anggita, D., & **Kurniawan, K.** (2025). *Decentralized Generative AI Framework with Solid*. International Semantic Web Conference (ISWC) 2025. [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- Adi, A. C., Anggita, D., & **Kurniawan, K.** (2025). *Decentralized Generative AI Framework with Solid*. International Semantic Web Conference (ISWC) 2025 Companion Volume. [https://ceur-ws.org/Vol-4085/paper82.pdf](https://ceur-ws.org/Vol-4085/paper82.pdf)
 
-- Herwanto, G. B., **Kurniawan, K.**, Prastowo, B. N., Isnaini, U., Putri, E., & Wijaya, S. H. (2025). *Constructing and Analyzing Indonesian Privacy Policies: a Dataset for Privacy Research*. 2025 IEEE International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs). [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- Herwanto, G. B., **Kurniawan, K.**, Prastowo, B. N., Isnaini, U., Putri, E., & Wijaya, S. H. (2025). *Constructing and Analyzing Indonesian Privacy Policies: a Dataset for Privacy Research*. 2025 IEEE International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs). [https://icocics.poltekssn.ac.id/](https://icocics.poltekssn.ac.id/)
 
 - **Kurniawan, K.**, Kiesling, E., Winkler, D., & Ekelhart, A. *The ICS-SEC KG: An Integrated Cybersecurity Resource for Industrial Control Systems*. In proceeding for International Semantic Web Conference 2024. Baltimore, Maryland. USA. [https://doi.org/10.1007/978-3-031-77847-6_9](https://doi.org/10.1007/978-3-031-77847-6_9)
 
@@ -73,7 +73,7 @@
 
 - **Kabul Kurniawan**, Andreas Ekelhart, Fajar Ekaputra, and Elmar Kiesling. 2020. *Cross-Platform File System Activity Monitoring and Forensics - A Semantic Approach*. 35rd International Conference on Information Security and Privacy Protection – IFIP Sec Conference 2020. Springer International Publishing, Cham, 384-397. [https://doi.org/10.1007/978-3-030-58201-2_26](https://doi.org/10.1007/978-3-030-58201-2_26)
 
-- Adorada, A., Wirawan, P. W., & **Kurniawan, K.** (2020). *The comparison of feature selection methods in software defect prediction*. 2020 4th International Conference on Informatics and Computational Sciences (ICICoS). [Google Scholar](https://scholar.google.co.id/citations?user=n2o10_4AAAAJ&hl=id)
+- Adorada, A., Wirawan, P. W., & **Kurniawan, K.** (2020). *The comparison of feature selection methods in software defect prediction*. 2020 4th International Conference on Informatics and Computational Sciences (ICICoS). [https://doi.org/10.1109/ICICoS51170.2020.9299022](https://doi.org/10.1109/ICICoS51170.2020.9299022)
 
 - **Kabul Kurniawan**, Andreas Ekelhart, Elmar Kiesling, Agnes Froschl, and Fajar Ekaputra. 2019. *Semantic Integration and Monitoring of File System Activity*. In 2019 SEMANTiCS Conference. [http://dx.doi.org/10.13140/RG.2.2.11376.81928/1](http://dx.doi.org/10.13140/RG.2.2.11376.81928/1)
 
