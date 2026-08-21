@@ -3,14 +3,6 @@
 
 @import "{{ site.theme }}";
 
-// Scoped above the theme's 960px stacking breakpoint so the mobile
-// single-column layout (width: auto) is untouched.
-@media print, screen and (min-width: 961px) {
-  section {
-    width: 550px;
-  }
-}
-
 .menu {
   list-style-type: none;
   margin: auto;
