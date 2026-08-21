@@ -135,6 +135,11 @@
 
 
 ## Activities
+
+### Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=kabul.kurniawan%40mail.ugm.ac.id&ctz=Asia%2FJakarta" style="border: 1px solid #e5e5e5; border-radius: 5px; width: 100%; max-width: 550px; height: 500px;" frameborder="0" scrolling="no"></iframe>
+
 ### Speaker at Seminars, Workshops, Talkshows:
 
 - Kabul Kurniawan, **"Knowledge Graph for Collaborative AI"**, As-Salam Leader's Talk (ALT), Warga Pengajian Austria (WAPENA), Vienna, Austria Oktober 2024
@@ -205,10 +210,6 @@
 ### Online Talks
 
 - [Decentralized Web](https://youtu.be/4cWkVbC2bNE)
-
-## Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=kabul.kurniawan%40mail.ugm.ac.id&ctz=Asia%2FJakarta" style="border: 1px solid #e5e5e5; border-radius: 5px; width: 100%; max-width: 550px; height: 500px;" frameborder="0" scrolling="no"></iframe>
 
 ## Contact
 
