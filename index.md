@@ -213,12 +213,11 @@
 
 ## Contact
 
-- For Personal inquiry please contact me at the following address information :
-> SimmeringerHaupstrasse 78/2/3
-> Vienna, Austria.
-> kabulkurniawan@gmail.com
-
 - For Official inquiry (Academic, Research) please contact me at the following address information :
-> Building D2, Entrance C, 2nd floor Welthandelsplatz 1 1020
-> Vienna, Austria. 
-> kabul.kurniawan@wu.ac.at
+> Departemen Ilmu Komputer dan Elektronika
+> Fakultas Matematika dan Ilmu Pengetahuan Alam
+> Universitas Gadjah Mada
+>
+> Gedung C, Lantai 4
+> Sekip Utara Bulaksumur Yogyakarta 55281
+> kabul.kurniawan@ugm.ac.id
