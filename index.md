@@ -37,6 +37,10 @@
 
 ### Proceedings
 
+- Nadhief, R. A., Kinanti, N. R., Athanaya, J. D., Hutagalung, G. A. T. D., Ramadhaniska, J. M., Amrizal, M. A., **Kurniawan, K.**, & Ekelhart, A. (2026). *Generating Executable Agentic AI Systems from Knowledge Graph Specifications*. International Conference on Information Integration and Web Intelligence (iiWAS) 2026. (Accepted) [https://iiwas2026.iiwas.org/](https://iiwas2026.iiwas.org/) [[PDF]](assets/papers/iiWAS2026_Generating_Executable_Agentic_AI_Systems.pdf) <span class="label-new">New</span>
+
+- Kinanti, N. R., Nadhief, R. A., **Kurniawan, K.**, Herwanto, G. B., Kiesling, E., & Ekelhart, A. (2026). *Constructing Knowledge Graphs from Agentic AI Frameworks*. International Conference on Information Integration and Web Intelligence (iiWAS) 2026. (Accepted) [https://iiwas2026.iiwas.org/](https://iiwas2026.iiwas.org/) [[PDF]](assets/papers/iiWAS2026_Constructing_KGs_from_Agentic_AI_Frameworks.pdf) <span class="label-new">New</span>
+
 - Ekelhart, A., **Kurniawan, K.**, Ekaputra, F. J., & Kiesling, E. (2026). *AgentO: An Ontology for Modeling Agentic AI Systems*. Extended Semantic Web Conference (ESWC) 2026. [https://doi.org/10.1007/978-3-032-25159-6_16](https://doi.org/10.1007/978-3-032-25159-6_16) <span class="label-new">New</span>
 
 - Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [https://oprime-repository.netlify.app/](https://oprime-repository.netlify.app/) <span class="label-new">New</span>
