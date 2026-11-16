@@ -111,6 +111,8 @@
 
 ### Book Chapters
 
+- **Kabul Kurniawan**, Elmar Kiesling. (2026). *Production Knowledge Graphs as a Semantic Foundation for Contextualized Quality Analytics*. In: Biffl, S., Lüder, A., Meixner, K., Hoffmann, D. (eds) Business Intelligence for Multi-Domain Systems Engineering and Operations. Springer, Cham, pp. 169-192. [https://doi.org/10.1007/978-3-032-25797-0_6](https://doi.org/10.1007/978-3-032-25797-0_6) <span class="label-new">New</span>
+
 - Franz Krause, **Kabul Kurniawan**, Elmar Kiesling, Jorge Martinez-Gil, Thomas Hoch, Mario Pichler, Bernhard Heinzl, Bernhard Moser. (2024). *Leveraging Semantic Representations via Knowledge Graph Embeddings*. In: Soldatos, J. (eds) Artificial Intelligence in Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-46452-2_5
 
 - Jorge Martinez-Gil, Thomas Hoch, Mario Pichler, Bernhard Heinzl, Bernhard Moser, **Kabul Kurniawan**, Elmar Kiesling, Franz Krause (2024). *Examining the Adoption of Knowledge Graphs in the Manufacturing Industry: A Comprehensive Review*. In: Soldatos, J. (eds)Artificial Intelligence in Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-46452-2_4
