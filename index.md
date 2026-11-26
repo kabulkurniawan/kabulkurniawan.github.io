@@ -25,8 +25,8 @@
 
 ### Privacy and Decentralization
 
-- [Linked-Pro](hhttps://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid.
 - [O-Prime](https://oprime-repository.netlify.app/): ODRL-based Privacy Monitoring Framework for Decentralized Environments. <span class="label-new">New</span>
+- [Linked-Pro](https://github.com/solid-app/LinkedPro): PoC for Social Network based on Solid.
 
 ### Agentic AI
 
