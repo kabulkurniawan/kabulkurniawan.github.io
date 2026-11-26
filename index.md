@@ -43,7 +43,7 @@
 
 - Ekelhart, A., **Kurniawan, K.**, Ekaputra, F. J., & Kiesling, E. (2026). *AgentO: An Ontology for Modeling Agentic AI Systems*. Extended Semantic Web Conference (ESWC) 2026. [https://doi.org/10.1007/978-3-032-25159-6_16](https://doi.org/10.1007/978-3-032-25159-6_16) <span class="label-new">New</span>
 
-- Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [https://oprime-repository.netlify.app/](https://oprime-repository.netlify.app/) <span class="label-new">New</span>
+- Adi, A. C., Isnaini, U., Hanif, M., & **Kurniawan, K.** (2026). *O-Prime: An ODRL-based Privacy Monitoring Framework for Decentralized Environments*. Extended Semantic Web Conference (ESWC) 2026. [https://easychair.org/publications/paper/xFmc/open](https://easychair.org/publications/paper/xFmc/open) <span class="label-new">New</span>
 
 - Seutia, A. B., Firdaus, M. Z., Ramadhan, M. A., **Kurniawan, K.**, Santriaji, M. H., Amrizal, ... & Takizawa, H. (2026). *Fully Homomorphic Encryption Inference of Neural Networks Using CKKS-TFHE Scheme Switching and Accelerated Linear Layers*. Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIA CCS) 2026. [https://doi.org/10.1145/3779208.3807493](https://doi.org/10.1145/3779208.3807493) <span class="label-new">New</span>
 
